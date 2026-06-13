@@ -1,0 +1,50 @@
+# Laboratoriomecanicadesuelos — Seville
+
+> Geotechnical engineering services in Seville, España.
+
+## Services
+- [Aislacion Sismica](https://seville.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://seville.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas Exploratorias](https://seville.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://seville.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://seville.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://seville.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://seville.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://seville.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://seville.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Triaxial](https://seville.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Estabilidad Taludes](https://seville.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://seville.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://seville.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://seville.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://seville.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://seville.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://seville.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://seville.laboratoriomecanicadesuelos.org/grouting/)
+- [Laboratorio In Situ](https://seville.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://seville.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Limites Atterberg](https://seville.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://seville.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Mejoramiento](https://seville.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://seville.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://seville.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://seville.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://seville.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://seville.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://seville.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Pilotes](https://seville.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://seville.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Resistividad Electrica Sev](https://seville.laboratoriomecanicadesuelos.org/resistividad-electrica-sev/)
+- [Sismica](https://seville.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://seville.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Taludes](https://seville.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://seville.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://seville.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://seville.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+
+## Contact
+- Website: https://seville.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Seville, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
